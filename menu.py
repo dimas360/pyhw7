@@ -80,13 +80,7 @@ def menu():
                         dict_command[command](book_all)
                     elif command == "0" or command == '':
                         print("| ---------------------------------------------------------- |")
-                        print("|     ВЫ ВЫШЛИ ИЗ ПРОГРАММЫ, НАДЕЕМСЯ ВАМ ПОНРАВИЛОСЬ!)      |")
-                        print("|                                                            |")
-                        print("|    Работа выполнена Шкляевым Даниилом, Лукашенок Борисом   |")
-                        print("|                                                            |")
-                        print("|    Даниил - Backend, Frontend                              |")
-                        print("|    Борис - Backend, ProjectManager, MainLogic              |")
-                        print("|    Все права защищены © Dec 22, 2022 DanBOR, Inc           |")
+                        print("|     ВЫ ВЫШЛИ ИЗ ПРОГРАММЫ      |")
                         print("| ---------------------------------------------------------- |")
                         break
                     elif command == "9":
@@ -133,13 +127,7 @@ def menu():
                         dict_command[command](book_all)
                     elif command == "0" or command == '':
                         print("| ---------------------------------------------------------- |")
-                        print("|     YOU HAVE LEFT THE PROGRAM, WE HOPE YOU ENJOYED IT!)    |")
-                        print("|                                                            |")
-                        print("|    The work was done by Daniel Shklyaev, Boris Lukashenok  |")
-                        print("|                                                            |")
-                        print("|    Daniel - Backend, Frontend                              |")
-                        print("|    Boris - Backend, ProjectManager, MainLogic              |")
-                        print("|    All rights reserved © Dec 22, 2022 DanBOR, Inc          |")
+                        print("|     YOU HAVE LEFT THE PROGRAM    |")
                         print("| ---------------------------------------------------------- |")
                         break
                     elif command == "9":
